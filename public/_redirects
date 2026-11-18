@@ -1,0 +1,3 @@
+# SPA fallback for static hosts such as Netlify or Cloudflare Pages.
+# All routes are handled by the React Router app.
+/*    /index.html   200
